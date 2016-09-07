@@ -24,8 +24,8 @@ redcarpet:
     - with_toc_data
     
 
-title : 小小是逗比
-tagline: 来打我啊
+title : 生命不息, 奋斗不止
+tagline: 万事起于忽微, 量变引起质变
 
 defaults:
   -
@@ -79,9 +79,9 @@ mathjax: false      #enable mathjax if true
 
 #### Author information
 author:
-  name: 小小      ## e.g. wuchong Author name
-  intro_line1:  "Hello ,I'm Larry Page in Google."    ## your introduction on the bottom of the page
-  intro_line2:  "This is my blog,believe it or not."  ## the 2nd line
+  name: 一根柴      ## e.g. wuchong Author name
+  intro_line1:  "阁下何不乘风起,扶摇直上九万里"    ## your introduction on the bottom of the page
+  intro_line2:  "我已上天"  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
